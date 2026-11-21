@@ -1,0 +1,542 @@
+[
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué estudia científicamente la psicología?",
+    "options": [
+      "Solo las enfermedades mentales",
+      "La conducta y los procesos mentales",
+      "Únicamente el cerebro",
+      "Las normas sociales"
+    ],
+    "answer": 1,
+    "why": "La psicología investiga procesos mentales y conducta con métodos científicos."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué caracteriza a una hipótesis científica?",
+    "options": [
+      "No admite revisión",
+      "Es comprobable y puede refutarse",
+      "Siempre es verdadera",
+      "Se basa solo en opiniones"
+    ],
+    "answer": 1,
+    "why": "Debe poder contrastarse con evidencia."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué método permite establecer relaciones causales bajo condiciones controladas?",
+    "options": [
+      "Experimento",
+      "Entrevista libre",
+      "Estudio de caso aislado",
+      "Encuesta descriptiva"
+    ],
+    "answer": 0,
+    "why": "La manipulación de una variable independiente y el control de otras permiten evaluar causalidad."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué es una variable dependiente?",
+    "options": [
+      "La que se manipula",
+      "El resultado que se mide",
+      "Un factor que nunca cambia",
+      "Una opinión del investigador"
+    ],
+    "answer": 1,
+    "why": "Se observa cómo cambia el resultado ante las condiciones del estudio."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué escuela se asocia con el estudio de la experiencia consciente mediante introspección?",
+    "options": [
+      "Estructuralismo",
+      "Conductismo radical",
+      "Psicología comunitaria",
+      "Neuropsicología"
+    ],
+    "answer": 0,
+    "why": "El estructuralismo temprano recurrió a la introspección entrenada."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué enfatiza el funcionalismo?",
+    "options": [
+      "La utilidad adaptativa de los procesos mentales",
+      "Solo la anatomía",
+      "El diagnóstico psiquiátrico",
+      "La medición del CI exclusivamente"
+    ],
+    "answer": 0,
+    "why": "Se pregunta para qué sirven la conciencia y la conducta en la adaptación."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué corriente destaca la conducta observable y el aprendizaje?",
+    "options": [
+      "Conductismo",
+      "Psicoanálisis",
+      "Humanismo",
+      "Gestalt"
+    ],
+    "answer": 0,
+    "why": "El conductismo estudia las relaciones entre ambiente, aprendizaje y conducta."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué principio se asocia con la Gestalt?",
+    "options": [
+      "El todo se organiza de forma distinta a la mera suma de partes",
+      "Toda conducta es innata",
+      "No existen ilusiones perceptivas",
+      "La memoria es perfecta"
+    ],
+    "answer": 0,
+    "why": "La percepción organiza elementos en configuraciones significativas."
+  },
+  {
+    "round": "Fundamentos e historia",
+    "q": "¿Qué perspectiva destaca libertad, sentido y autorrealización?",
+    "options": [
+      "Humanista",
+      "Reflexología",
+      "Estructuralista",
+      "Psicofísica"
+    ],
+    "answer": 0,
+    "why": "El humanismo se interesa por la experiencia subjetiva y el desarrollo personal."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué estructura neuronal recibe muchas señales de otras neuronas?",
+    "options": [
+      "Dendritas",
+      "Axón terminal",
+      "Mielina",
+      "Núcleo únicamente"
+    ],
+    "answer": 0,
+    "why": "Las dendritas suelen recibir información sináptica."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué sucede principalmente en una sinapsis química?",
+    "options": [
+      "Se liberan neurotransmisores",
+      "Se unen dos huesos",
+      "Se elimina toda actividad eléctrica",
+      "Se duplica el ADN"
+    ],
+    "answer": 0,
+    "why": "Las sustancias neurotransmisoras transmiten señales entre células."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué parte del sistema nervioso integra información centralmente?",
+    "options": [
+      "Encéfalo y médula espinal",
+      "Nervios periféricos solamente",
+      "Músculos voluntarios",
+      "Glándulas salivales"
+    ],
+    "answer": 0,
+    "why": "El sistema nervioso central comprende encéfalo y médula espinal."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué división suele preparar al organismo para la acción ante una amenaza?",
+    "options": [
+      "Simpática",
+      "Parasimpática",
+      "Somática sensorial",
+      "Visual primaria"
+    ],
+    "answer": 0,
+    "why": "La activación simpática suele aumentar el estado de alerta."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué lóbulo se relaciona especialmente con el procesamiento visual?",
+    "options": [
+      "Occipital",
+      "Frontal",
+      "Temporal",
+      "Parietal"
+    ],
+    "answer": 0,
+    "why": "La corteza visual primaria se encuentra en el lóbulo occipital."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué diferencia hay entre sensación y percepción?",
+    "options": [
+      "La sensación detecta estímulos; la percepción los organiza e interpreta",
+      "Son exactamente iguales",
+      "La percepción ocurre antes de cualquier estímulo",
+      "La sensación siempre implica significado"
+    ],
+    "answer": 0,
+    "why": "La detección sensorial y la interpretación perceptiva son procesos relacionados pero distintos."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué es la atención selectiva?",
+    "options": [
+      "Priorizar cierta información e inhibir distractores",
+      "Recordar absolutamente todo",
+      "Percibir estímulos inexistentes",
+      "Dormir profundamente"
+    ],
+    "answer": 0,
+    "why": "La atención distribuye recursos limitados hacia estímulos relevantes."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "En una ilusión óptica, ¿qué se evidencia?",
+    "options": [
+      "La percepción es una construcción interpretativa",
+      "Los ojos siempre fallan",
+      "La memoria desaparece",
+      "No existe estimulación externa"
+    ],
+    "answer": 0,
+    "why": "El contexto puede modificar cómo interpretamos estímulos reales."
+  },
+  {
+    "round": "Bases biológicas y percepción",
+    "q": "¿Qué ocurre en la adaptación sensorial?",
+    "options": [
+      "Disminuye la sensibilidad ante estimulación constante",
+      "Aumenta indefinidamente la intensidad",
+      "Se pierde toda percepción para siempre",
+      "Se detiene el sistema nervioso"
+    ],
+    "answer": 0,
+    "why": "La respuesta a un estímulo sostenido puede reducirse con el tiempo."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Un sonido antes neutro provoca salivación tras asociarse con comida. ¿Qué proceso es?",
+    "options": [
+      "Condicionamiento clásico",
+      "Moldeamiento",
+      "Aprendizaje vicario exclusivamente",
+      "Castigo negativo"
+    ],
+    "answer": 0,
+    "why": "Un estímulo inicialmente neutro adquiere capacidad de provocar una respuesta condicionada."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Una alumna estudia más porque recibe reconocimiento después de hacerlo. ¿Qué ocurrió?",
+    "options": [
+      "Reforzamiento positivo",
+      "Castigo positivo",
+      "Extinción",
+      "Habituación"
+    ],
+    "answer": 0,
+    "why": "Se añade una consecuencia apetitiva y aumenta la conducta."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Un conductor se coloca el cinturón para detener la alarma; aumenta esa conducta. ¿Qué es?",
+    "options": [
+      "Reforzamiento negativo",
+      "Castigo negativo",
+      "Reforzamiento positivo",
+      "Generalización"
+    ],
+    "answer": 0,
+    "why": "Se elimina un estímulo aversivo y aumenta la conducta."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Un adolescente pierde tiempo de videojuegos tras incumplir una regla y la conducta disminuye. ¿Qué es?",
+    "options": [
+      "Castigo negativo",
+      "Reforzamiento negativo",
+      "Extinción clásica",
+      "Condicionamiento respondiente"
+    ],
+    "answer": 0,
+    "why": "Se retira algo apetitivo para reducir una conducta."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "¿Qué significa extinción operante?",
+    "options": [
+      "Dejar de entregar el reforzador que mantenía una conducta",
+      "Borrar instantáneamente un recuerdo",
+      "Aplicar siempre castigos",
+      "Premiar cualquier respuesta"
+    ],
+    "answer": 0,
+    "why": "Al suspender el reforzamiento, la conducta puede disminuir gradualmente."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "¿Qué describió Bandura con el aprendizaje observacional?",
+    "options": [
+      "Aprender observando modelos y consecuencias",
+      "Aprender solo por ensayo directo",
+      "Olvidar por interferencia",
+      "Recordar solo por repetición"
+    ],
+    "answer": 0,
+    "why": "La observación de modelos influye en el aprendizaje."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "¿Cuál es una función central de la memoria de trabajo?",
+    "options": [
+      "Mantener y manipular información temporalmente",
+      "Guardar todos los recuerdos de por vida",
+      "Regular únicamente el sueño",
+      "Eliminar estímulos visuales"
+    ],
+    "answer": 0,
+    "why": "Permite operar mentalmente con información activa y limitada."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Recordar la primera vez que visitaste una ciudad es memoria…",
+    "options": [
+      "Episódica",
+      "Procedimental",
+      "Sensorial exclusivamente",
+      "Refleja"
+    ],
+    "answer": 0,
+    "why": "La memoria episódica incluye experiencias autobiográficas situadas."
+  },
+  {
+    "round": "Aprendizaje y memoria",
+    "q": "Saber montar en bicicleta se asocia principalmente con memoria…",
+    "options": [
+      "Procedimental",
+      "Semántica exclusivamente",
+      "Icónica",
+      "Prospectiva exclusivamente"
+    ],
+    "answer": 0,
+    "why": "Las habilidades automatizadas implican memoria procedimental."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué es un sesgo cognitivo?",
+    "options": [
+      "Tendencia sistemática a procesar información de modo parcial",
+      "Un daño cerebral obligatorio",
+      "Una emoción agradable",
+      "Una prueba de inteligencia"
+    ],
+    "answer": 0,
+    "why": "Los sesgos son patrones de juicio que pueden apartarse de la evaluación objetiva."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "Buscar solo información que respalde lo que ya creemos ejemplifica…",
+    "options": [
+      "Sesgo de confirmación",
+      "Memoria procedimental",
+      "Reflejo condicionado",
+      "Atención dividida"
+    ],
+    "answer": 0,
+    "why": "El sesgo de confirmación favorece evidencias consistentes con creencias previas."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué es la motivación intrínseca?",
+    "options": [
+      "Realizar una actividad por interés o satisfacción propia",
+      "Actuar solo por una recompensa externa",
+      "Responder a un reflejo",
+      "Obedecer por amenaza"
+    ],
+    "answer": 0,
+    "why": "El interés en la actividad misma es central."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "Una estudiante practica piano porque disfruta aprender, aunque no haya premios. ¿Qué predomina?",
+    "options": [
+      "Motivación intrínseca",
+      "Castigo positivo",
+      "Extinción",
+      "Desamparo aprendido"
+    ],
+    "answer": 0,
+    "why": "La actividad es valiosa por sí misma para quien la realiza."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué relación describe mejor emoción y cognición?",
+    "options": [
+      "Se influyen mutuamente",
+      "Son sistemas completamente independientes",
+      "La emoción impide siempre pensar",
+      "La cognición elimina emociones"
+    ],
+    "answer": 0,
+    "why": "La interpretación de situaciones y las emociones interactúan."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué caracteriza una estrategia de reevaluación cognitiva?",
+    "options": [
+      "Cambiar la interpretación de una situación para modular su impacto emocional",
+      "Negar que ocurrió",
+      "Suprimir todos los recuerdos",
+      "Evitar siempre cualquier emoción"
+    ],
+    "answer": 0,
+    "why": "Reinterpretar un evento puede modificar la respuesta emocional."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué es la función ejecutiva de inhibición?",
+    "options": [
+      "Frenar respuestas automáticas cuando no son adecuadas",
+      "Dormir más tiempo",
+      "Almacenar imágenes permanentemente",
+      "Incrementar reflejos espinales"
+    ],
+    "answer": 0,
+    "why": "La inhibición permite regular impulsos y respuestas dominantes."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué es una heurística?",
+    "options": [
+      "Regla mental rápida que simplifica decisiones",
+      "Prueba clínica definitiva",
+      "Memoria de largo plazo",
+      "Neurotransmisor"
+    ],
+    "answer": 0,
+    "why": "Las heurísticas ahorran esfuerzo, aunque pueden generar errores."
+  },
+  {
+    "round": "Cognición, emoción y motivación",
+    "q": "¿Qué significa metacognición?",
+    "options": [
+      "Reflexionar y regular el propio pensamiento y aprendizaje",
+      "Memorizar sin comprender",
+      "Interpretar sueños únicamente",
+      "Reaccionar por reflejos"
+    ],
+    "answer": 0,
+    "why": "Incluye planear, supervisar y evaluar estrategias cognitivas."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Una docente dice “es flojo” sin describir hechos. ¿Qué debe hacer primero?",
+    "options": [
+      "Definir conductas observables y contexto",
+      "Asignar un diagnóstico",
+      "Aplicar un castigo",
+      "Ignorar al estudiante"
+    ],
+    "answer": 0,
+    "why": "La descripción operacional reduce juicios y permite evaluar situaciones."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Una correlación entre uso de pantallas y sueño demuestra que las pantallas causan insomnio. ¿Es correcto?",
+    "options": [
+      "No, correlación no demuestra causalidad",
+      "Sí, siempre",
+      "Solo si hay muchos participantes",
+      "Sí, si se publica en redes"
+    ],
+    "answer": 0,
+    "why": "Pueden existir variables de confusión o causalidad inversa."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Una alumna olvida datos durante un examen por alta ansiedad. ¿Qué conclusión es más prudente?",
+    "options": [
+      "La ansiedad puede afectar atención y recuperación; hay que evaluar más",
+      "Tiene necesariamente un trastorno",
+      "Nunca estudió",
+      "Su inteligencia es baja"
+    ],
+    "answer": 0,
+    "why": "Un desempeño aislado no basta para inferir capacidades o diagnósticos."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Un estudiante imita a compañeros que reciben aplausos por participar. ¿Qué concepto ayuda a explicarlo?",
+    "options": [
+      "Aprendizaje observacional",
+      "Amnesia retrógrada",
+      "Adaptación sensorial",
+      "Castigo positivo"
+    ],
+    "answer": 0,
+    "why": "Observar modelos y sus consecuencias influye en la conducta."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Una persona cree que “todos me rechazan” por un comentario negativo, ignorando elogios. ¿Qué identificarías?",
+    "options": [
+      "Posible generalización excesiva y sesgo atencional",
+      "Prueba concluyente de rechazo",
+      "Memoria procedimental",
+      "Reflejo condicionado"
+    ],
+    "answer": 0,
+    "why": "La interpretación puede sobregeneralizar una evidencia limitada."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Un investigador obtiene respuestas de menores sin autorización ni medidas de protección. ¿Qué problema existe?",
+    "options": [
+      "Vulneración de principios éticos de investigación",
+      "Ninguno si la encuesta es breve",
+      "Solo un error estadístico",
+      "Una ventaja metodológica"
+    ],
+    "answer": 0,
+    "why": "Se requieren protecciones adecuadas, consentimiento y, según corresponda, asentimiento."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "¿Qué acción es correcta al presentar un caso psicológico en clase?",
+    "options": [
+      "Eliminar datos identificables y respetar confidencialidad",
+      "Compartir nombres y fotos",
+      "Publicarlo sin permiso",
+      "Inventar un diagnóstico"
+    ],
+    "answer": 0,
+    "why": "La privacidad y el uso ético de información son fundamentales."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "Un alumno acierta más cuando duerme bien. ¿Qué hipótesis prudente plantearías?",
+    "options": [
+      "El sueño podría relacionarse con atención y consolidación de memoria",
+      "Dormir garantiza siempre el éxito",
+      "El aprendizaje no importa",
+      "El sueño es irrelevante"
+    ],
+    "answer": 0,
+    "why": "El descanso puede favorecer procesos cognitivos sin determinar por sí solo el resultado."
+  },
+  {
+    "round": "Casos integradores y ética",
+    "q": "¿Qué afirmación muestra pensamiento científico?",
+    "options": [
+      "Esta explicación es provisional y debemos contrastarla",
+      "Mi experiencia prueba que siempre ocurre",
+      "Si muchos lo creen, es verdad",
+      "No necesito datos"
+    ],
+    "answer": 0,
+    "why": "La psicología científica contrasta hipótesis y revisa conclusiones según la evidencia."
+  }
+]

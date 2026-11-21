@@ -1,0 +1,14 @@
+PSICOLOGÍA GENERAL CHALLENGE EN VIVO — GUÍA RÁPIDA
+
+1. En GitHub crea un repositorio NUEVO llamado Psicologia-General-Challenge.
+2. Sube EL CONTENIDO de esta carpeta, no el ZIP. Debes ver server.js, package.json, questions.json y la carpeta public en la raíz.
+3. En Render: New > Web Service. Si no ves el repositorio, revisa los permisos de la integración GitHub de Render para incluir el repositorio nuevo, o usa Public Git Repository con su URL.
+4. Selecciona el repositorio Psicologia-General-Challenge.
+5. Configuración: Language Node; Branch main; Root Directory VACÍO; Build Command npm install; Start Command npm start; Plan Free (si está disponible).
+6. No necesitas variables de entorno para comenzar. Pulsa Deploy web service.
+7. Cuando aparezca Live, abre https://TU-NOMBRE.onrender.com/host.html. Pulsa Crear partida y comparte el QR.
+8. Prueba con tu celular antes de clase.
+
+IMPORTANTE: Las salas y puntuaciones están en memoria. Si el servidor reinicia o se duerme, se pierde la partida. No es seguro pausar una clase hasta la semana siguiente. Usa el plan gratuito para una clase continua y conserva una captura de resultados. Para una versión con guardado permanente necesitaríamos una base de datos.
+
+45 preguntas / 5 rondas / duración orientativa 70–85 min, según ritmo y discusión.
